@@ -1,0 +1,3 @@
+I aspire to master the art of automation testing.
+Learning Selenium has opened doors to explore the potential of Python frameworks.
+I look forward to applying the knowledge gained in real-world projects.
